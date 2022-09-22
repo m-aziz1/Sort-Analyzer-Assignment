@@ -1,0 +1,15 @@
+F:\cs30\Algorithms\Sort-Analyzer-Assignment\bin\Debug\net6.0\Sort-Analyzer-Assignment.exe
+F:\cs30\Algorithms\Sort-Analyzer-Assignment\bin\Debug\net6.0\Sort-Analyzer-Assignment.deps.json
+F:\cs30\Algorithms\Sort-Analyzer-Assignment\bin\Debug\net6.0\Sort-Analyzer-Assignment.runtimeconfig.json
+F:\cs30\Algorithms\Sort-Analyzer-Assignment\bin\Debug\net6.0\Sort-Analyzer-Assignment.dll
+F:\cs30\Algorithms\Sort-Analyzer-Assignment\bin\Debug\net6.0\Sort-Analyzer-Assignment.pdb
+F:\cs30\Algorithms\Sort-Analyzer-Assignment\obj\Debug\net6.0\Sort-Analyzer-Assignment.csproj.AssemblyReference.cache
+F:\cs30\Algorithms\Sort-Analyzer-Assignment\obj\Debug\net6.0\Sort-Analyzer-Assignment.GeneratedMSBuildEditorConfig.editorconfig
+F:\cs30\Algorithms\Sort-Analyzer-Assignment\obj\Debug\net6.0\Sort-Analyzer-Assignment.AssemblyInfoInputs.cache
+F:\cs30\Algorithms\Sort-Analyzer-Assignment\obj\Debug\net6.0\Sort-Analyzer-Assignment.AssemblyInfo.cs
+F:\cs30\Algorithms\Sort-Analyzer-Assignment\obj\Debug\net6.0\Sort-Analyzer-Assignment.csproj.CoreCompileInputs.cache
+F:\cs30\Algorithms\Sort-Analyzer-Assignment\obj\Debug\net6.0\Sort-Analyzer-Assignment.dll
+F:\cs30\Algorithms\Sort-Analyzer-Assignment\obj\Debug\net6.0\refint\Sort-Analyzer-Assignment.dll
+F:\cs30\Algorithms\Sort-Analyzer-Assignment\obj\Debug\net6.0\Sort-Analyzer-Assignment.pdb
+F:\cs30\Algorithms\Sort-Analyzer-Assignment\obj\Debug\net6.0\Sort-Analyzer-Assignment.genruntimeconfig.cache
+F:\cs30\Algorithms\Sort-Analyzer-Assignment\obj\Debug\net6.0\ref\Sort-Analyzer-Assignment.dll
